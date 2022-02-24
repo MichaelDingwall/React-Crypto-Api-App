@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Crypto-Api-App/static/css/main.cf7fead2.css",
+    "main.js": "/React-Crypto-Api-App/static/js/main.80e07a17.js",
+    "index.html": "/React-Crypto-Api-App/index.html",
+    "main.cf7fead2.css.map": "/React-Crypto-Api-App/static/css/main.cf7fead2.css.map",
+    "main.80e07a17.js.map": "/React-Crypto-Api-App/static/js/main.80e07a17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf7fead2.css",
+    "static/js/main.80e07a17.js"
+  ]
+}
